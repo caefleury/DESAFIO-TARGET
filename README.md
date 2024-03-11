@@ -9,3 +9,5 @@ Para rodar o código e checar as questões basta rodar
 `python3 <arquivo_python>`
 
 em cada arquivo de questão da pasta src.
+
+A questão 3 e 4 em não possuem código executável
